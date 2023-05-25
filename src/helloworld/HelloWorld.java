@@ -18,6 +18,7 @@ public class HelloWorld {
         
         System.out.println("Hello World!");
         System.out.println("This is the change made in GitHub directly!");
+        System.out.println("Checking the 'PULL' option directly!");
     }
     
 }
